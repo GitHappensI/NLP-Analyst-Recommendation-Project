@@ -1,0 +1,6 @@
+stopwords_custom = ['euro','vorliegenden','analyst','analystin','wilson','andrew','green','nicholas','hauenstein','alexander','andre','kukhnin',
+'ben','uglow','brendan','luecke','guillermo','peigneux','james','winchester','lars','brorson','philip','buller','simon','toennessen','vladimir','sergievskiy',
+'rbc','gael','de-bray','fielding','mark','yates','max','daniela','costa','kerner',
+'us-analysehaus','analysehaus','us','bernstein','barclays','jeffries','jpmorgan','ubs','morgan','stanley','goldman','sachs','berenberg','credit','suisse','schweizer','deutsche','kanadische','britische','investmentbank','us-bank','us-investmentbank','bank','großbank','privatbank',
+'studie','branchenstudie','sektorstudie','research','donnerstag','donnerstagmorgen','mittwoch','montag','dienstag','freitag','schrieb', "dz",'kursziel',
+'belassen']
