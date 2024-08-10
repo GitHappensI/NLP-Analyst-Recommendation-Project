@@ -27,9 +27,9 @@ Ziel dieses Projekts ist es, zu untersuchen, wie von Unternehmen kommunizierte T
   < < ├── **Analystenempfehlungen_Links.xlsx :** Links zu den gecrawlten Analystenempfehlungen (Vorstufe im Crawling-Prozess).  
 < └── **Pressemitteilung :** beinhaltet die Pressemitteilung der Siemens AG vom 16.11.2023.   
 < ├── **Stoppwörter :** beinhaltet die benutzerdefinierten Stoppwörter für Iteration 2 des Topic Modelings der Analystenempfehlungen.    
-< ├── **Analysten_Sentimentanalyse_TopicModelling.ipynb :** Sentimentanalyse und Topic Modeling der Analystenempfehlungen.  
+< ├── **Analysten_Sentimentanalyse_TopicModeling.ipynb :** Sentimentanalyse und Topic Modeling der Analystenempfehlungen.  
 < ├── **Crawler.ipynb :** Crawler für die Analystenempfehlungen.   
-< └── **Pressemitteilung_TopicModelling.ipynb :** Topic Modeling der Pressemitteilung.  
+< └── **Pressemitteilung_TopicModeling.ipynb :** Topic Modeling der Pressemitteilung.  
 
 ## Autor
 Paul Moosmayer
