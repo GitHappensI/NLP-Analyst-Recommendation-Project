@@ -4,7 +4,7 @@ Ziel dieses Projekts ist es, zu untersuchen, wie von Unternehmen kommunizierte T
 
 ## Vorgehensweise
 1. **Datenbeschaffung**  
-   Zuerst wurden die benötigten Daten mithilfe eines Web-Crawlers gesammelt. Der Crawler (`Crawler.ipynb`) wurde verwendet, um Analystenempfehlungen von einer Webseite zu extrahieren. Die gesammelten Daten wurden in der Datei `Analystenempfehlungen.xlsx` gespeichert. Eine Vorstufe des Crawling-Prozesses, bei der nur die Links zu den Analystenempfehlungen gesammelt wurden, ist in der Datei `Analystenempfehlungen_Links.xlsx` dokumentiert.
+   Zuerst wurden die benötigten Daten mithilfe eines Web-Crawlers (der Begriff wird hier synonym zu <u>Web-Scraper</u> verwendet) gesammelt. Der Crawler (`Crawler.ipynb`) wurde verwendet, um Analystenempfehlungen von einer Webseite zu extrahieren. Die gesammelten Daten wurden in der Datei `Analystenempfehlungen.xlsx` gespeichert. Eine Vorstufe des Crawling-Prozesses, bei der nur die Links zu den Analystenempfehlungen gesammelt wurden, ist in der Datei `Analystenempfehlungen_Links.xlsx` dokumentiert.
 
 2. **Datenvorverarbeitung**  
    Nach der Datenerfassung wurden die Analystenempfehlungen aufbereitet. Dazu gehörte die Konvertierung von Zeitstempeln, die Bereinigung von Texten sowie das Entfernen von Stoppwörtern. Für das Topic Modeling der Analystenempfehlungen (Iteration 2) wurde zusätzlich eine benutzerdefinierte Stoppwortliste erstellt und in der Datei `Stoppwörter` abgelegt.
